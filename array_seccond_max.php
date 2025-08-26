@@ -22,7 +22,6 @@ for($i=0; $i<$arrcount;$i++){
  
 // this is new changes in new branch 
 
-<<<<<<< HEAD
 // this is latest branch code
 
 
@@ -30,9 +29,3 @@ for($i=0; $i<$arrcount;$i++){
 
 
 
-=======
-
-
-//this is seond new changes in new branch
-?>
->>>>>>> new
